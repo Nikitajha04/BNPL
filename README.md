@@ -24,5 +24,5 @@ To revolutionize credit-based purchases by creating a transparent, trustless, an
 - Connect with oracles for fiat-to-crypto conversions.
 
 
-contract address
+#contract address:
 0xb14E75440E812C1dfB999853160b5A87F1e07a6b
