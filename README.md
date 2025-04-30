@@ -23,6 +23,8 @@ To revolutionize credit-based purchases by creating a transparent, trustless, an
 - Integrate frontend UI for seamless DApp experience.
 - Connect with oracles for fiat-to-crypto conversions.
 
+![image](https://github.com/user-attachments/assets/bdd8a0c3-8ad9-420b-b6ac-815f1522b008)
+
 
 #contract address:
 0xd9145CCE52D386f254917e481eB44e9943F39138
